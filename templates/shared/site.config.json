@@ -1,0 +1,7 @@
+{
+  "type": "blog",
+  "defaultLang": "bg",
+  "title": "My Astro Site",
+  "site": "http://localhost:4321",
+  "design": "midnight"
+}
